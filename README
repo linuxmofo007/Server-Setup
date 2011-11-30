@@ -1,0 +1,24 @@
+Purpose:
+
+This script should handle most of the basic work of setting up a fresh install of Cent OS 5.X. It's been tested on CentOS 5.7 x86_64.
+
+Requirements:
+
+- perl 5.8
+
+Usage:
+
+./serverConfig.pl
+
+Notes: 
+
+- None yet.
+
+Support / Help / Patches:
+
+I'm very pleased to accept any patches / fixes / bugs. Drop me a 
+note at linuxmofo007@gmail.com.
+
+Versions:
+
+0.1 - Setup basic server services, users, groups, permissions, start up apps
